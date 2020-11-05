@@ -1,3 +1,3 @@
 # hello-world
-My first repositoriy
+My first repositoriy.
 I am studying Github now! 
